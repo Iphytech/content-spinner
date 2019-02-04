@@ -1,0 +1,41 @@
+
+body{
+    font-family: "M-Medium";
+    background: #E7EBF4;
+}
+.navbar-brand{
+    padding-right: 1.5em;
+    border-right: 1px solid #E7EBF4;
+}
+
+.nav-link{
+    transition: 0.2s all ease;
+}
+
+.nav-link:hover {
+    color: #0397D6!important;
+}
+
+.nav-link {
+    color: black !important;
+    font-weight: bold;
+    /* font-size: 0.8em; */
+}
+
+.nav-item{
+    padding-right: 20px;
+}
+
+.navbar{
+    box-shadow: 0 0 5px #3296a6;
+    min-height: 4em;
+}
+
+.body-container{
+    margin-top: -30em !important;
+}
+#features-section i{
+    font-size: 3em;
+    color: #0397D6;
+    margin-bottom: 0.4em;
+}
